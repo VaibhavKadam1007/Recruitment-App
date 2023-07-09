@@ -1,0 +1,149 @@
+/* .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.search-input {
+    width: 400px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+}
+
+.search-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.search-results {
+    text-align: left;
+}
+
+.search-results li {
+    margin-bottom: 10px;
+} */
+/* body {
+    background-image: url("background-image.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+#search-form {
+    margin-bottom: 20px;
+}
+
+#search-input {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+}
+
+#search-input:focus {
+    outline: none;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#search-results {
+    text-align: left;
+} */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+#search-form {
+    margin-bottom: 20px;
+}
+
+#search-input {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+}
+
+#search-input:focus {
+    outline: none;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
